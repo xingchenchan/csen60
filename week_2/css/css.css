@@ -1,0 +1,11 @@
+/* order presedence
+1. inline style
+2. internal style
+3. external style 
+
+these will override all precedence*/
+
+p{
+    color:purple;
+    /* background-color: orange; */
+}
