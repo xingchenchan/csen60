@@ -1,0 +1,27 @@
+/* order presedence
+1. inline style
+2. internal style
+3. external style 
+
+these will override all precedence*/
+
+
+/*old/
+
+li{
+    display: inline;
+}
+
+/* newway inline */
+
+ul{
+    display: flex;
+    flex-direction: row;  /*by default, displays flex has flex direction*/
+    list-style-type: none;
+    gap:16px;
+}
+
+header{
+    display: flex;
+    justify-content: space-between;
+}

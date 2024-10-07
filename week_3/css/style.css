@@ -1,0 +1,41 @@
+/* order presedence
+1. inline style
+2. internal style
+3. external style 
+
+these will override all precedence*/
+
+
+/*html tag selector*/
+
+html{
+    font-family: Arial, sans-serif;
+}
+
+body {
+    background-color: #1c87c9;
+    }
+
+
+
+/* class selectors */
+#middle-p{
+    color: #F15025;
+    text-align:center;
+    text-decoration:underline;
+}
+
+p{
+    color:purple;
+    /* background-color: orange; */
+}
+
+
+
+
+/* id */
+#main-text{
+    line-height: 30px;
+
+
+}
