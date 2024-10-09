@@ -21,9 +21,18 @@ ul{
     gap:16px;
 }
 
+main h1 image{
+    display: flex;
+}
+
 header{
     display: flex;
     justify-content: space-between;
+}
+
+section{
+    display: flex;
+    justify-content: center;
 }
 
 button{
@@ -33,4 +42,15 @@ button{
     background-color:#f8f9fa;
     border: 1px solid #f8f9fa;
     cursor: pointer;
+}
+
+footer{
+    display: flex;
+}
+
+footer ul{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+
 }

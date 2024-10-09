@@ -17,6 +17,10 @@ body {
     }
 
 
+section{
+    display:flex;
+}
+
 
 /* class selectors */
 #middle-p{
