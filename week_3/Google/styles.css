@@ -25,9 +25,11 @@ main h1 image{
     display: flex;
 }
 
-main{
+body{
     display: flex;
-    justify-content: center;
+    flex-direction: column;
+    height:100vh;
+    justify-content: space-between;
 }
 
 header,footer{
@@ -38,6 +40,10 @@ header,footer{
 section{
     display: flex;
     justify-content: center;
+}
+
+main{
+    align-self:center;
 }
 
 button{
@@ -55,8 +61,4 @@ button{
     align-items: center;
 }
 
-footer{
-    display: flex;
-    align-items: flex-end;
-    margin-top: auto;
-}
+
