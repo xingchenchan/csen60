@@ -30,7 +30,18 @@ body{
     flex-direction: column;
     height:100vh;
     justify-content: space-between;
+
 }
+
+/* footer{
+    position: absolute;
+    bottom: 0;
+    right: 200px;
+} */
+
+/* body{
+    position: absolute;
+} */
 
 header,footer{
     display: flex;
