@@ -1,0 +1,54 @@
+footer nav{
+    background-color: white;
+    display: flex;
+    gap: 2rem;
+}
+
+article footer{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+
+}
+
+body nav{
+    display: flex;
+    align-items: flex-start;
+
+}
+
+a#previous-article.secondary, a.secondary, ul.tags a, time{
+    color:var(--darkest-gray);
+    text-decoration:none;
+}
+
+a#next-article.primary{
+    color:var(--accent-text);
+}
+
+nav ul{
+    gap: 1.5rem;
+}
+
+button{
+    width: 2rem;
+    height:1.5rem;
+}
+
+
+/* article{
+    display: flex;
+    justify-content:  center;
+    margin-top: 2rem;
+    margin-bottom: 2rem;
+} */
+
+main{
+    margin:auto;
+    max-width: min(80%, 80ch);
+}
+
+.highlight{
+    background-color:var(--accent-background);
+    color:var(--accent-background-text);
+}
