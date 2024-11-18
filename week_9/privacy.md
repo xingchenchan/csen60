@@ -7,6 +7,8 @@
 
         -How?:  attacker provides a link and let you go to their java script and let the user navigate to there
 
+        -mitigation: don't allow any html to be inserted, against SQL injection
+
 
 
 ##privacy
