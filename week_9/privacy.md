@@ -36,3 +36,29 @@
   -Digital certificate:
     The contents of a server's digital certificate include: 
     -The public key, effective date of certificate, authenciation of this website
+
+  -Mobile OS-provided
+    -conatacts: "find your friends on——“, giving a lot of data than you should
+
+    -data collection: behavior logging: ANy action a user takes on a webpage can be logged
+        -HTML event listerns: clicks, hovers
+    -HISTORY WILL ALWAYS BE STORED
+
+    -Data applications: AD tracking
+        -convert an ad seen on screen to some action, the better targeted the ad, the better chance of a conversion (EX: youtube free ad)
+
+    -Search improves results by tracking user's action, do predictive suggestions, pagerank and natural language processing
+
+    -recommandations: based on ——you liked, given previous action and provide next step
+
+    -Metric driving: optimize a webpage's behavior for something that can be measured, UI improvement, EX: check user's perference in text size and color to use for further UI updates
+
+    -Lost of sensitive information: PII(name, address stuff, financial information) these cannot be leaked
+
+    -Privacy policy: statement saying what the website does with any information it collects, legally binding, specify who owns the information, specify why and what type of information is needed
+
+    -Developer's legal responsibilities: privacy's legal implications, cost is binding
+
+    -GDPR: european protection law, CCPA: california privacy protection, "do not sell my personal data"
+
+    -duckduckgo: not take data from you
