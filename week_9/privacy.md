@@ -32,3 +32,7 @@
     use cookies for better user experience and easier tracking
 
     privacy policiy: do we obtain or not?  obey the law, what the web site does with andy information it collects, it has the right of blocing people
+
+  -Digital certificate:
+    The contents of a server's digital certificate include: 
+    -The public key, effective date of certificate, authenciation of this website
