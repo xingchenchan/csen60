@@ -4,12 +4,29 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Document</title>
-    <script src="./win2.js" defer></script>
     <script src="./win.js" defer></script>
+    <script>
+
+    </script>
+
 </head>
 </head>
 <body>
-    <button id="add" onclick = "checkCookie()" type="button" > save </button>
+    <div id="haha">
+        <button id="add" onclick = "checkCookies()" type="button" > save </button>
+        <script id="test">
+            let v = document.cookie ;
+            if(v != null){
+
+                console.log('lol')
+                const o = document.createElement("img") ;
+                o.src="./test.jpg" ;
+                document.body.appendChild(o) ;
+                console.log("omg it's happening")
+            }
+        </script>
+
+    </div>
     
 </body>
 </html>
