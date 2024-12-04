@@ -48,5 +48,11 @@
 
 ### chanllenges: inner html to create posts （but avoid)
 
-
+## nike
+### tailwind css, react, nextJs, database
+#### tsx files, reuse codes
+#### tailwind: use different classnames for html elemenets, no external and inline css
+### add or sbtract a shoe, check on question marks, paypal button send to paypal
+### neon database, vercel server deployment web technologies, solved by check netwrok tab and console.log() everything
+### 
 
