@@ -54,5 +54,20 @@
 #### tailwind: use different classnames for html elemenets, no external and inline css
 ### add or sbtract a shoe, check on question marks, paypal button send to paypal
 ### neon database, vercel server deployment web technologies, solved by check netwrok tab and console.log() everything
-### 
 
+## reddit
+### comments
+### hierachy layout, carousel without navigation buttons, setting up API for posts (js class)
+### upvote downvote(changing color)
+
+## math
+### remastered a ugly website
+### added popups preview, animation and drop down accordion, search feature (key word)
+### doesn't use margin too much, nielsen heurisitcs, organized pull request with isolated changes(branches)
+
+## dog
+### home page, characters, socks, quiz
+
+### challenges/solutions: 
+#### base css and html, getting images
+### organization, debugging
